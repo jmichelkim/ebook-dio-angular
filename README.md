@@ -40,15 +40,15 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Seja especialista e crie um título divertido para um, ebook sobre desenvolvimento web em angular. |
+| conteúdo | Crie um ebook com 4 capitulos de angular com as principais caracteristicas deste framework. |
 
 
 Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Oi, pode criar uma imagem em png para ser utilizada em uma capa de ebook de angular. Onde Um guerreiro na frente de um castelo utiliza seu escudo que possui o logo do angular esta se defendendo com o escudo de fogo de um dragao. |
 
 ## ✨ Features
 
@@ -57,8 +57,7 @@ Midjourney：
 
 ## 📚 Materiais
 
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+- ebook gerado durante as aulas
 
 ## 🛠️ Instruções de execução
 
